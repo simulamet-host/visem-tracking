@@ -1,0 +1,68 @@
+train: [
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/11,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/12,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/13,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/14,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/15,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/19,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/21,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/22,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/23,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/24,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/29,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/30,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/35,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/36,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/38,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/47
+]
+
+val: [
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/52,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/54,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/60,
+  /work/vajira/DATA/VISEM-BB/to_yolo5_05_08_2022_20_corrected_index/82,
+]
+
+# number of classes
+nc: 3
+
+# class names
+names: [ "sperm", "cluster", "small_or_pinhead"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
